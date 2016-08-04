@@ -1,0 +1,24 @@
+
+.col-xs-12 {
+  background-color: #f0f5f5;
+}
+
+
+.column-right {
+  background-color: #99ddff
+}
+
+.column-bottom {
+  background-color: purple;
+}
+.border {
+  margin: 40px;}
+
+.middle {
+  border: solid  #00b36b;
+  background-color: #ccffeb;
+}
+.column-right {
+  border: solid #33ccff;
+  background-color: #ccf2ff;
+}
